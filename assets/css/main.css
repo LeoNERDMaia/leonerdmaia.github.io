@@ -1856,7 +1856,7 @@ button,
   .newsitem > .newsthumb {
     margin-left: auto;
     width: 20em;
-    height: auto;
+    height: 12em;
     display: flex; }
     /* line 441, ../sass/main.scss */
     .newsitem > .newsthumb img {
